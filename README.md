@@ -25,7 +25,7 @@ Procject   ==>> Web Application	  ==>>	Next
 
 ## Steps 2 Name And Location
  2. Name And Location
-Procject Name ==>> HitungHargaServlet	  ==>>	Next
+==>> HitungHargaServlet	  ==>>	Next
 
 
 ![Mumu](image/1.png)
