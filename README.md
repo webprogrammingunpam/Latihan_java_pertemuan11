@@ -12,7 +12,12 @@ Beberapa hal yang akan dibahas pada pembelajaran Pemrograman Dasar Servlet:
    dari katalog online, aplikasi chatting, situns perdagangan, dan lain-lain 
 4. Java Servlet banyak digunakan secara luas sebagai komponen java web,
    walaupun saat ini biasa digunakan secara tidak langsung
-## Apps Xampp https://bit.ly/4wcpPA3
+## Contoh Aplikasi JSP-Servlet 
+1. Buat projek baru dengan nama HitungHargaServlet
+2. Tambahkan file JSP dengan nama index
+3. Ubah source code menjadi seperti di bawah ini 
+
+
 ## Login PHPMYAMIN http://localhost/phpmyadmin
 ![Mumu](image/1.png)
 ## 2. 
