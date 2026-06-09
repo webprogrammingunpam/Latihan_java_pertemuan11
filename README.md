@@ -69,5 +69,5 @@ Procject   ==>> Web Application	  ==>>	Next
 ![Mumu](image/20.png)
 ## 21. 
 ![Mumu](image/21.png)
-## 22. 
+## 22. HASIL NYA
 ![Mumu](image/22.png)
