@@ -18,10 +18,15 @@ Beberapa hal yang akan dibahas pada pembelajaran Pemrograman Dasar Servlet:
 3. Ubah source code menjadi seperti di bawah ini 
 
 
-## ## New Procject
+## Steps 1 New Procject
  1. Choose Procject  
 Categories ==>> Java Web
-Procject   ==>> Web Application
+Procject   ==>> Web Application	  ==>>	Next
+
+## Steps 2 Name And Location
+ 2. Name And Location
+Procject Name ==>> HitungHargaServlet	  ==>>	Next
+
 
 ![Mumu](image/1.png)
 ## 2. 
