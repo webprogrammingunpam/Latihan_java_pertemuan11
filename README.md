@@ -45,4 +45,4 @@
 ## 21. 
 ![Mumu](image/21.png)
 ## 22. 
-![Mumu](image/21.png)
+![Mumu](image/22.png)
