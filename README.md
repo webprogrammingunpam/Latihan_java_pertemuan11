@@ -18,7 +18,11 @@ Beberapa hal yang akan dibahas pada pembelajaran Pemrograman Dasar Servlet:
 3. Ubah source code menjadi seperti di bawah ini 
 
 
-## Login PHPMYAMIN http://localhost/phpmyadmin
+## ## New Procject
+ 1. Choose Procject  
+Categories ==>> Java Web
+Procject   ==>> Web Application
+
 ![Mumu](image/1.png)
 ## 2. 
 ![Mumu](image/2.png)
