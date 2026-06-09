@@ -5,7 +5,10 @@ Beberapa hal yang akan dibahas pada pembelajaran Pemrograman Dasar Servlet:
 2. Contoh Aplikasi JSP-Servlet
 3. Contoh Aplikasi Servlet 
 4. Pengaturan Servlet 
-## Apps Pendukung JAVA https://bit.ly/4cUUMBv
+## Servlet
+Java Servlet adalah objek java yang memproses interaksi HTTP di sisi server 
+Java Servlet mendukung terciptanya berbagai konten web dinamis, dapat melakukan hampir semua yang dapat dilakukan dengan HTTP dan Bahasa markup, dari katalog online, aplikasi chatting, situns perdagangan, dan lain-lain 
+Java Servlet banyak digunakan secara luas sebagai komponen java web, walaupun saat ini biasa digunakan secara tidak langsung
 ## Apps Xampp https://bit.ly/4wcpPA3
 ## Login PHPMYAMIN http://localhost/phpmyadmin
 ![Mumu](image/1.png)
