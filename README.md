@@ -1,32 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
-## Pemrograman Dasar Servlet 
-Beberapa hal yang akan dibahas pada pembelajaran Pemrograman Dasar Servlet:
-1. Pengenalan Servlet 
-2. Contoh Aplikasi JSP-Servlet
-3. Contoh Aplikasi Servlet 
-4. Pengaturan Servlet 
-## Servlet
-1. Java Servlet adalah objek java yang memproses interaksi HTTP di sisi server 
-2. Java Servlet mendukung terciptanya berbagai konten web dinamis,
-   dapat melakukan hampir semua yang dapat dilakukan dengan HTTP dan Bahasa markup,
-   dari katalog online, aplikasi chatting, situns perdagangan, dan lain-lain 
-4. Java Servlet banyak digunakan secara luas sebagai komponen java web,
-   walaupun saat ini biasa digunakan secara tidak langsung
-## Contoh Aplikasi JSP-Servlet 
-1. Buat projek baru dengan nama HitungHargaServlet
-2. Tambahkan file JSP dengan nama index
-3. Ubah source code menjadi seperti di bawah ini 
-
-
-## Steps 1 New Procject
- 1. Choose Procject  
-Categories ==>> Java Web
-Procject   ==>> Web Application	  ==>>	Next
-
-## Steps 2 Name And Location
- 2. Name And Location
-==>> HitungHargaServlet	  ==>>	Next
-
+## Pembuatan Form Utama pada Aplikasi Web
 
 ![Mumu](image/1.png)
 ## 2. 
